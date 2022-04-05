@@ -1,3 +1,7 @@
+This is a scripts I wrote to find the signatures of liquidations on Solend within a specified block in order to examine their interactions further. currently working on a identifying any function depending on input from the user or external scripts.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
