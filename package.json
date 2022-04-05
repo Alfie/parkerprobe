@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
+    "@solana/web3.js": "^1.37.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -12,8 +13,11 @@
     "@types/react": "^16.14.24",
     "@types/react-dom": "^16.9.14",
     "@types/react-redux": "^7.1.23",
+    "antd": "^4.19.3",
+    "bs58": "^5.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-moment": "^1.1.1",
     "react-redux": "^7.2.7",
     "react-scripts": "5.0.0",
     "typescript": "^4.1.6"
