@@ -1,4 +1,4 @@
-This is a scripts I wrote to find the signatures of liquidations on Solend within a specified block in order to examine their interactions further. currently working on a identifying any function depending on input from the user or external scripts.
+This is a script written to find the signatures of liquidations on Solend within a specified block in order to examine their interactions further, I'm currently working on a identifying any function depending on input from the user or external scripts, and adding analysis tools within the app.
 
 
 
